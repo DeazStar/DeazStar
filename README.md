@@ -17,7 +17,7 @@ I build distributed systems, blockchain infrastructure, and AI-powered backends.
 | **Backend** | Node.js · JavaScript · TypeScript · Python · Express · FastAPI · Flask |
 | **AI / ML** | MeTTa · Neo4j · RAG Systems · LSTM · Vector Databases |
 | **Frontend** | React · Next.js |
-| **Databases** | MongoDB · MySQL · Redis · Neo4j |
+| **Databases** | MongoDB · MySQL · Postgress · Redis · Neo4j |
 | **Infra** | Docker · Linux · Git |
 
 ---
@@ -30,4 +30,6 @@ I build distributed systems, blockchain infrastructure, and AI-powered backends.
 ---
 
 naodararsa7@gmail.com · [LinkedIn](https://linkedin.com/in/your-handle)
+
+----
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DeazStar)](https://git.io/streak-stats)
